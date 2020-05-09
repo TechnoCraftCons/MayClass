@@ -10,7 +10,7 @@ public class Java04MethodImplementation {
 		System.out.println("The return value of the method is" + returnValue);
 		
 		method.AddTwoNumbersWithParameter(12,10.25);
-		double returnParameterValue = method.AddTwoNumbersWithParameterAndReturnType(12, 10);
+		double returnParameterValue = method.AddTwoNumbersWithParameterAndReturnType(12,10);
 		System.out.println("My return value of the method with parameter is " + returnParameterValue);
 		
 

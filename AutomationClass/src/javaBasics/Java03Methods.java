@@ -5,6 +5,10 @@ public class Java03Methods {
 	double b = 5;
 	double result;
 	
+	public Java03Methods() {
+		System.out.println("I am the constructor from Java03Methods");
+	}
+	
 	// Any method which have void doesn't have a return type
 	public void AddTwoNumbers() {
 		result = a + b;

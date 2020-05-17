@@ -11,6 +11,7 @@ public class Selenium02Elements {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://eaapp.somee.com/");
 		driver.manage().window().maximize();
+		
 		driver.findElement(By.xpath("//a[@href='/Account/Register']")).click();
 		driver.findElement(By.cssSelector("input#UserName")).sendKeys("user name");
 

@@ -1,2 +1,10 @@
 /.metadata/
 AutomationClass/.classpath
+TestngAutomation/.settings/org.eclipse.jdt.core.prefs
+TestngAutomation/test-output/bullet_point.png
+TestngAutomation/test-output/Default suite/Default test.html
+*.html
+*.png
+AutomationClass/.classpath
+TestngAutomation/.project
+TestngAutomation/test-output/jquery-3.4.1.min.js

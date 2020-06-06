@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [LoansRegressionSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="LoansRegressionTest(failed)">
+    <groups>
+      <run>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testngIntro.Testng01basics">
+        <methods>
+          <include name="Login"/>
+          <include name="CreateUser"/>
+        </methods>
+      </class> <!-- testngIntro.Testng01basics -->
+    </classes>
+  </test> <!-- LoansRegressionTest(failed) -->
+</suite> <!-- Failed suite [LoansRegressionSuite] -->

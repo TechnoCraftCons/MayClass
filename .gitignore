@@ -8,3 +8,17 @@ TestngAutomation/test-output/Default suite/Default test.html
 AutomationClass/.classpath
 TestngAutomation/.project
 TestngAutomation/test-output/jquery-3.4.1.min.js
+*.prefs
+*.gif
+*.js
+POM/.project
+POM/.classpath
+POM/test-output/EAAPP/MyTestEAApp.xml
+POM/test-output/Default suite/testng-failed.xml
+POM/test-output/testng.css
+POM/test-output/testng-results.xml
+POM/test-output/testng-reports1.css
+POM/test-output/testng-reports.css
+POM/test-output/testng-failed.xml
+POM/test-output/EAAPP/testng-failed.xml
+POM/test-output/Default suite/Default test.xml

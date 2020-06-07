@@ -22,3 +22,10 @@ POM/test-output/testng-reports.css
 POM/test-output/testng-failed.xml
 POM/test-output/EAAPP/testng-failed.xml
 POM/test-output/Default suite/Default test.xml
+*.css
+may-automation/.project
+may-automation/.classpath
+may-automation/test-output/EAApp/EAAppRegression.xml
+may-automation/test-output/junitreports/TEST-tests.RegistrationTest.xml
+may-automation/test-output/old/EAApp/EAAppRegression.properties
+may-automation/test-output/testng-results.xml

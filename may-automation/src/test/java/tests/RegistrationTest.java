@@ -27,7 +27,7 @@ public class RegistrationTest {
 
 	@AfterMethod
 	public void CleanUp() {
-		driver.close();
+		//driver.close();
 	}
 
 	@Test
